@@ -7,7 +7,6 @@ Look at each file to see where you need to pass props or add code
 import React, { UseState } from "react";
 import "./App.css";
 import PostsPage from "./components/PostsContainer/PostsPage";
-import "./components/SearchBar/SearchBarContainer";
 import SearchBar from "./components/SearchBar/SearchBarContainer";
 // import the PostsPage and SearchBar and add them to the App
 
